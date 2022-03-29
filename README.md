@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BraggerDeck
-- 👀 I’m interested in ...FAP
-- 🌱 I’m currently learning ... c
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Damian Meza
+- 👀 I’m interested in ... Develop
+- 🌱 I’m currently learning ... c#
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
 <!---
